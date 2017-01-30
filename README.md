@@ -9,12 +9,6 @@ CKEditor directive for Angular.
 
 ## Install
 
-### Using bower
-
-```sh
-bower install angular-ckeditor
-```
-
 ### Using NPM
 
 ```sh
