@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lemonde/angular-ckeditor.git"
+    "url": "git+https://antoinezaz/angular-ckeditor.git"
   },
   "keywords": [
     "angular",
     "directive",
     "ckeditor"
   ],
-  "author": "Team Le8 <projet-cms-tech@lemonde.fr>",
+  "author": "Antoine Zazzera",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lemonde/angular-ckeditor/issues"
+    "url": "https://github.com/antoinezaz/angular-ckeditor/issues"
   },
-  "homepage": "https://github.com/lemonde/angular-ckeditor",
+  "homepage": "https://github.com/antoinezaz/angular-ckeditor",
   "devDependencies": {
     "angular-mocks": "~1.5.0",
     "chai": "~3.4.1",
